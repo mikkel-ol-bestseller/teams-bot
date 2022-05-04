@@ -34,6 +34,8 @@ This should leave you with only `commits`:
 
 ![Unsubscribe](img/unsubscribe.png)
 
-Now only notifications for new commits to the main branches are enabled and they look like this:
+Now only notifications for new commits to the main branch are enabled and they look like this:
+
+![Unsubscribe](img/notification.png)
 
 This can of course be customized even more; to dive deeper into the possibilities ask the bot `help` or visit https://github.com/integrations/microsoft-teams/blob/master/Readme.md
