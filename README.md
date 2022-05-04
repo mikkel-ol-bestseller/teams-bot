@@ -12,9 +12,9 @@ Answer it `signin` to sign in to your GitHub account
 
 Click "Connect GitHub account" in the response message and give it access
 
-Now the bot is ready to set up subscriptions to enable notification/messages for repositories
+Now the bot is ready to set up subscriptions to enable notifications/messages for repositories
 
-To add an subscribe type the following:
+To add a subscription type the following:
 
 `subscribe owner/repo`
 
